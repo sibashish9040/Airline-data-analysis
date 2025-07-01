@@ -17,6 +17,7 @@ The main goals of this analysis were to:
 
 - `airline_analysis.ipynb`: The Python notebook containing the full EDA process using libraries such as Pandas, Matplotlib, and Seaborn.
 - `Airline_report_sub.pdf`: A structured PDF report containing the problem statement, objectives and summarizing the findings, insights, and visualizations derived from the notebook.
+- > ⚠️ **Note**: The dataset used in this project is not included in the repository due to its large size. Sorry for it but you can use your own airline-related dataset or contact me through given links on my profile for guidance on obtaining a similar dataset.
 
 ## 🛠️ Tools & Libraries
 
