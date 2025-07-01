@@ -1,4 +1,5 @@
 # Airline Customer Data Analysis
+![Airline_analysis](https://github.com/sibashish9040/Airline-data-analysis/blob/main/flight_pic.jpg)
 
 ## 📂 Project Overview
 
